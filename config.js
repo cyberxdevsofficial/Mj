@@ -1,0 +1,21 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/FGm3gjpa9WM4Tzu7S7RHg0',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://files.catbox.moe/x57uwq.png',
+    NEWSLETTER_JID: '120363425281343116@newsletter',
+    NEWSLETTER_MESSAGE_ID: '8194',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: 'https://files.catbox.moe/x57uwq.png',
+    BOT_NAME: '𝐀ɴᴜᴡʜ 𝐌ᴅ 𝐌ɪɴɪ 𝐁ᴏᴛ ',
+    OWNER_NAME: '𝐀ɴᴜɢᴀ 𝐒ᴇɴɪᴛʜᴜ',
+    OWNER_NUMBER: '94776579018',
+    BOT_VERSION: '3.0.0',
+    BOT_FOOTER: '> 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ 𝐀ɴᴜᴡʜ 𝐌ᴅ 𝐌ɪɴɪ 𝐁ᴏᴛ 𝐎ᴡɴᴇʀ 𝐀ɴᴜɢᴀ 𝐒ᴇɴɪᴛʜᴜ',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBidiBG3R3ogbJ66S2C', 'https://whatsapp.com/channel/0029Vb7LlwU7DAX4FMtqZM3a'
+};
